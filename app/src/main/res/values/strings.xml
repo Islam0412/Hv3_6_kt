@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hv3_6_kt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="blank_space">Blank Space</string>
+    <string name="taylor_swift">Taylor Swift</string>
+</resources>
